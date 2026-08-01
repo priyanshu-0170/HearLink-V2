@@ -107,13 +107,13 @@ HearLink is a cloud-native, production-ready EdTech solution that transforms cla
 
 ## 🤝 Contact & Collaboration
 
-📬 Email: [maitras600@gmail.com](mailto:maitras600@gmail.com)
+📬 Email: [pg.priyanshu01@gmail.com]
 
 👥 Team HearLink Members
 
-Swarnojit Maitra (Team Leader)
+Priyanshu Gupta (Team Leader)
 
-Priyadeep Mullick
+Swarnojit Maitra
 
 Titiksha Chakraborty
 
